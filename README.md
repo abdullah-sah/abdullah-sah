@@ -231,30 +231,3 @@
 		alt="abdullah-sah"
 	/>
 </p>
-
-
-
-## Techstack 👀
-### Essentials
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=3178c6)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=000000)
-
-### Frameworks
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=61dbfb)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=next&fill=61dbfb)
-
-
-<!--
-**abdullah-sah/abdullah-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
