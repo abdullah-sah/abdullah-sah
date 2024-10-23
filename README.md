@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abdullah_sahraoui" target="blank"><img align="center" src="https://raw.gihow thubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdullah_sahraoui" height="30" width="40" /></a>
+<a href="https://dev.to/abdullah_sahraoui" target="blank"><img align="center" src="/Dev Badge.svg" title="dev.to profile" alt="abdullah_sahraoui" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah-sahraoui" target="blank"><img align="center" title="linkedin profile" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-sahraoui" height="30" width="40" /></a>
 </p>
 
@@ -22,6 +22,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 			alt="aws"
+			title="AWS"
 			width="40"
 			height="40"
 		/>
@@ -30,6 +31,7 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 			alt="azure"
+			title="Azure"
 			width="40"
 			height="40"
 		/>
@@ -38,6 +40,7 @@
 		<img
 			src="https://www.chartjs.org/media/logo-title.svg"
 			alt="chartjs"
+			title="ChartJS"
 			width="40"
 			height="40"
 		/>
@@ -46,6 +49,7 @@
 		<img
 			src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
 			alt="cypress"
+			title="Cypress"
 			width="40"
 			height="40"
 		/>
@@ -54,6 +58,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
 			alt="express"
+			title="Express"
 			width="40"
 			height="40"
 		/>
@@ -62,6 +67,7 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
 			alt="figma"
+			title="Figma"
 			width="40"
 			height="40"
 		/>
@@ -70,6 +76,7 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
 			alt="firebase"
+			title="Firebase"
 			width="40"
 			height="40"
 		/>
@@ -78,6 +85,7 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
 			alt="git"
+			title="Git"
 			width="40"
 			height="40"
 		/>
@@ -90,6 +98,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 			alt="javascript"
+			title="JavaScript"
 			width="40"
 			height="40"
 		/>
@@ -98,6 +107,7 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
 			alt="jest"
+			title="Jest"
 			width="40"
 			height="40"
 		/>
@@ -106,6 +116,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
 			alt="linux"
+			title="Linux"
 			width="40"
 			height="40"
 		/>
@@ -114,6 +125,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
 			alt="mongodb"
+			title="MongoDB"
 			width="40"
 			height="40"
 		/>
@@ -122,6 +134,7 @@
 		<img
 			src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
 			alt="nextjs"
+			title="NextJS"
 			width="40"
 			height="40"
 		/>
@@ -130,6 +143,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
 			alt="nodejs"
+			title="Nodejs"
 			width="40"
 			height="40"
 		/>
@@ -138,6 +152,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
 			alt="postgresql"
+			title="PostgreSQL"
 			width="40"
 			height="40"
 		/>
@@ -146,6 +161,7 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
 			alt="postman"
+			title="Postman"
 			width="40"
 			height="40"
 		/>
@@ -154,6 +170,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 			alt="python"
+			title="Python"
 			width="40"
 			height="40"
 		/>
@@ -162,6 +179,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react"
+			title="React"
 			width="40"
 			height="40"
 		/>
@@ -170,6 +188,7 @@
 		<img
 			src="https://reactnative.dev/img/header_logo.svg"
 			alt="reactnative"
+			title="React native"
 			width="40"
 			height="40"
 		/>
@@ -178,6 +197,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
 			alt="sass"
+			title="Sass"
 			width="40"
 			height="40"
 		/>
@@ -186,6 +206,7 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
 			alt="sqlite"
+			title="SQLite"
 			width="40"
 			height="40"
 		/>
@@ -194,6 +215,7 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
 			alt="tailwind"
+			title="Tailwind"
 			width="40"
 			height="40"
 		/>
@@ -202,12 +224,15 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 			alt="typescript"
+			title="TypeScript"
 			width="40"
 			height="40"
 		/>
 	</a>
 </p>
 
+
+<!-- Commenting out this information for now 😅
 <p>
 	<img
 		align="left"
@@ -231,30 +256,4 @@
 		alt="abdullah-sah"
 	/>
 </p>
-
-
-
-## Techstack 👀
-### Essentials
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=3178c6)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=000000)
-
-### Frameworks
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=61dbfb)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=next&fill=61dbfb)
-
-
-<!--
-**abdullah-sah/abdullah-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
